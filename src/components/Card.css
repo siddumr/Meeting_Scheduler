@@ -1,0 +1,102 @@
+.card {
+    width: 290px;
+    background: white;
+    padding: .4em;
+    border-radius: 6px;
+    margin-left: 150px;
+    margin-top: 50px;
+  }
+  .main
+  {
+    display: flex;
+    flex-direction: row;
+  }
+  .card-image {
+   background:url('https://img.freepik.com/free-photo/3d-render-graduation-cap-with-diploma-certificate_107791-16842.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  .card-image1 {
+   background:url('https://img.freepik.com/free-vector/illustration-law-concept_53876-5930.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  .card-image2 {
+   background:url('https://img.freepik.com/free-vector/first-aid-help-bag-with-stethoscope-isolated_134830-878.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  .card-image3 {
+   background:url('https://img.freepik.com/free-vector/industrial-buildings-isometric-composition-with-plant-area-scenery-factory-facilities-huge-fabric-buildings-transport-units_1284-31596.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  .card-image4 {
+   background:url('https://img.freepik.com/free-vector/arrow-going-up-red-bar-chart_1308-111938.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  .card-image5 {
+   background:url('https://img.freepik.com/free-vector/shopping-cart-with-boxes-realistic-image_1284-14182.jpg?size=626&ext=jpg&ga=GA1.1.1884890450.1704292968&semt=ais') no-repeat;
+    width: 100%;
+    height: 130px;
+    padding: 100px;
+    background-size: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  
+  .card-image:hover {
+    transform: scale(0.98);
+  }
+  
+  .category {
+    text-transform: uppercase;
+    font: size 80px;;
+    font-weight: 600;
+    color: rgb(63, 121, 230);
+    padding: 10px 7px 0;
+  }
+  
+  .category:hover {
+    cursor: pointer;
+  }
+  
+  .heading {
+    font-weight: 600;
+    color: rgb(88, 87, 87);
+    padding: 7px;
+  }
+  
+  .heading:hover {
+    cursor: pointer;
+  }
+  
+  .author {
+    color: gray;
+    font-weight: 400;
+    font-size: 11px;
+    padding-top: 20px;
+  }
+  
+  .name {
+    font-weight: 600;
+  }
+  
+  .name:hover {
+    cursor: pointer;
+  }
