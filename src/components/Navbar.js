@@ -18,7 +18,7 @@ export default function Navbar() {
       <div className='list-items'>
         <ul className='unordered-list'>
           
-          <Link to="/Home"><li>Home</li></Link>
+          <Link to="/Home"><li>HOME</li></Link>
             <Link to="/signup"><li>
             SIGN UP
             </li></Link>

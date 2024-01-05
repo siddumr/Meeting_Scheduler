@@ -7,6 +7,9 @@ import Field from "./Field";
 import './image.css';
 import './Button.css';
 import Card from "./Card";
+import Ani from "./Ani";
+import DownloadButton from "./Download";
+import DownloadButton1 from "./Download1";
 
 
 
@@ -38,6 +41,7 @@ function Home()
         <Field></Field>
         
         <Button></Button>
+        <h2 style={{marginLeft:'250px',marginTop:'70px',color:"red"}}>Compatible In All Type Of Devices</h2>
         </div>
         
         <h1 style={{marginLeft:"200px",marginTop:'100px',color:'blue'}}>Powering organizations across industries and geographies</h1>
@@ -56,9 +60,11 @@ function Home()
        </div>
 </div>
 <div>
-<img src='Trust.jpg' style={{height:'25%',width:'85%',marginBottom:'100px'}}></img>
+<img src='Trust.jpg' style={{height:'25%',width:'85%',marginBottom:'100px',borderRadius:'50px'}}></img>
 </div>
-
+<Ani></Ani>
+<DownloadButton></DownloadButton>
+<DownloadButton1></DownloadButton1>
         <Footer></Footer>
     
    
