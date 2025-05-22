@@ -3,6 +3,7 @@
 Meeting Scheduler is a sleek and interactive frontend web application designed to help users plan, view, and manage their meetings efficiently. With a clean UI and responsive layout, it offers all the essential features to organize your schedule—right from your browser.
 
 ✨ Features
+
 📅 Schedule new meetings with date, time, and details
 
 🕒 Choose custom durations and time slots
