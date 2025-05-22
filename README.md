@@ -33,3 +33,5 @@ Styling: Custom CSS / MUI styling
 Animations: Framer Motion / CSS Transitions (if used)
 
 Storage: LocalStorage for data persistence (no backend)
+
+![IMG-20250522-WA0010](https://github.com/user-attachments/assets/f9ee8037-bbc6-4718-b89f-662581de22c8)
